@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BrunoChauvet
+- 👀 I’m interested in everything Cloud, Kubernetes, Automation and Machine Learning
+- 🌱 I’m currently learning advanced ML techniques using keras and tensorflow
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 How to reach me https://www.linkedin.com/in/bruno-chauvet-sydney/
